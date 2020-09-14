@@ -1,1 +1,2 @@
-This folder is for ITP 01. 
+# Capstone
+Hi, my name is Anna Bilello. I am a senior at Indiana University studying Informatics. 
